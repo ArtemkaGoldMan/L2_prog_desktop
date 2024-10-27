@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artem\\University\\Proj_Desktop_Les\\Lab_2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E3F52C-6FEE-48C0-8626-548803F05346}|StockPriceMonitoring\\StockPriceMonitoring.csproj|c:\\users\\artem\\university\\proj_desktop_les\\lab_2\\l2_prog_desktop\\p03 observer design pattern\\stockpricemonitoring\\stockpricemonitoring\\istockobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E3F52C-6FEE-48C0-8626-548803F05346}|StockPriceMonitoring\\StockPriceMonitoring.csproj|solutionrelative:stockpricemonitoring\\istockobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E3F52C-6FEE-48C0-8626-548803F05346}|StockPriceMonitoring\\StockPriceMonitoring.csproj|c:\\users\\artem\\university\\proj_desktop_les\\lab_2\\l2_prog_desktop\\p03 observer design pattern\\stockpricemonitoring\\stockpricemonitoring\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E3F52C-6FEE-48C0-8626-548803F05346}|StockPriceMonitoring\\StockPriceMonitoring.csproj|solutionrelative:stockpricemonitoring\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E3F52C-6FEE-48C0-8626-548803F05346}|StockPriceMonitoring\\StockPriceMonitoring.csproj|c:\\users\\artem\\university\\proj_desktop_les\\lab_2\\l2_prog_desktop\\p03 observer design pattern\\stockpricemonitoring\\stockpricemonitoring\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E3F52C-6FEE-48C0-8626-548803F05346}|StockPriceMonitoring\\StockPriceMonitoring.csproj|solutionrelative:stockpricemonitoring\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E3F52C-6FEE-48C0-8626-548803F05346}|StockPriceMonitoring\\StockPriceMonitoring.csproj|c:\\users\\artem\\university\\proj_desktop_les\\lab_2\\l2_prog_desktop\\p03 observer design pattern\\stockpricemonitoring\\stockpricemonitoring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E3F52C-6FEE-48C0-8626-548803F05346}|StockPriceMonitoring\\StockPriceMonitoring.csproj|solutionrelative:stockpricemonitoring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStockObserver.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Desktop_Les\\Lab_2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\StockPriceMonitoring\\IStockObserver.cs",
+              "RelativeDocumentMoniker": "StockPriceMonitoring\\IStockObserver.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Desktop_Les\\Lab_2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\StockPriceMonitoring\\IStockObserver.cs",
+              "RelativeToolTip": "StockPriceMonitoring\\IStockObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:53:51.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Desktop_Les\\Lab_2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\StockPriceMonitoring\\Observer.cs",
+              "RelativeDocumentMoniker": "StockPriceMonitoring\\Observer.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Desktop_Les\\Lab_2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\StockPriceMonitoring\\Observer.cs",
+              "RelativeToolTip": "StockPriceMonitoring\\Observer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:53:31.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Desktop_Les\\Lab_2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\StockPriceMonitoring\\Stock.cs",
+              "RelativeDocumentMoniker": "StockPriceMonitoring\\Stock.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Desktop_Les\\Lab_2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\StockPriceMonitoring\\Stock.cs",
+              "RelativeToolTip": "StockPriceMonitoring\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:53:07.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Desktop_Les\\Lab_2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\StockPriceMonitoring\\Program.cs",
+              "RelativeDocumentMoniker": "StockPriceMonitoring\\Program.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Desktop_Les\\Lab_2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\StockPriceMonitoring\\Program.cs",
+              "RelativeToolTip": "StockPriceMonitoring\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:51:41.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
