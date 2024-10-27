@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TE2RF10gJaw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\University\\Proj_Desktop_Les\\Lab_2\\L2_prog_desktop\\P21 Sequence Filtering\\LogisticsDeliveryMonitor\\LogisticsDeliveryMonitor\\LogisticsDeliveryMonitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
