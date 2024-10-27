@@ -1,0 +1,15 @@
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\bin\Debug\net8.0\BatteryMonitor.exe
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\bin\Debug\net8.0\BatteryMonitor.deps.json
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\bin\Debug\net8.0\BatteryMonitor.runtimeconfig.json
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\bin\Debug\net8.0\BatteryMonitor.dll
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\bin\Debug\net8.0\BatteryMonitor.pdb
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\obj\Debug\net8.0\BatteryMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\obj\Debug\net8.0\BatteryMonitor.AssemblyInfoInputs.cache
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\obj\Debug\net8.0\BatteryMonitor.AssemblyInfo.cs
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\obj\Debug\net8.0\BatteryMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\obj\Debug\net8.0\BatteryMonitor.sourcelink.json
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\obj\Debug\net8.0\BatteryMonitor.dll
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\obj\Debug\net8.0\refint\BatteryMonitor.dll
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\obj\Debug\net8.0\BatteryMonitor.pdb
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\obj\Debug\net8.0\BatteryMonitor.genruntimeconfig.cache
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P12_BehaviorSubject\BatteryMonitor\obj\Debug\net8.0\ref\BatteryMonitor.dll

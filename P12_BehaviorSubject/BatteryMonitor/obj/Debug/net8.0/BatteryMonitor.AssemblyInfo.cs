@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("StockPriceMonitoring")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BatteryMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3680adee475abee2fbb7830653d838fe110efad")]
-[assembly: System.Reflection.AssemblyProductAttribute("StockPriceMonitoring")]
-[assembly: System.Reflection.AssemblyTitleAttribute("StockPriceMonitoring")]
+[assembly: System.Reflection.AssemblyProductAttribute("BatteryMonitor")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BatteryMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
