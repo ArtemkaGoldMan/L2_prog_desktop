@@ -12,7 +12,7 @@ Jak działa program:
     Jednocześnie tworzony jest obiekt BatteryReader, który zaczyna monitorować folder z danymi.
 
     Generowanie danych:
-    BatterySimulator losowo generuje wartość poziomu baterii w zakresie od 0% do 100% i zapisuje ją w pliku. Odczyty są zapisywane do pliku, który jest tworzony na podstawie bieżącej daty, co umożliwia gromadzenie danych przez wiele dni
+    BatterySimulator losowo generuje wartość poziomu baterii w zakresie od 0% do 100% i zapisuje ją w pliku. Odczyty są zapisywane do pliku, który jest tworzony na podstawie bieżącej daty, co umożliwia gromadzenie danych przez wiele dni.
 
 Odczyt danych:
 
