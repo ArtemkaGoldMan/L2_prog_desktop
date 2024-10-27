@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\StockPriceMonitoring\\StockPriceMonitoring.csproj": {}
+    "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P12_BehaviorSubject\\BatteryMonitor\\BatteryMonitor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\StockPriceMonitoring\\StockPriceMonitoring.csproj": {
+    "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P12_BehaviorSubject\\BatteryMonitor\\BatteryMonitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\StockPriceMonitoring\\StockPriceMonitoring.csproj",
-        "projectName": "StockPriceMonitoring",
-        "projectPath": "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\StockPriceMonitoring\\StockPriceMonitoring.csproj",
+        "projectUniqueName": "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P12_BehaviorSubject\\BatteryMonitor\\BatteryMonitor.csproj",
+        "projectName": "BatteryMonitor",
+        "projectPath": "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P12_BehaviorSubject\\BatteryMonitor\\BatteryMonitor.csproj",
         "packagesPath": "C:\\Users\\Marta Stankevich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P03 Observer Design Pattern\\StockPriceMonitoring\\StockPriceMonitoring\\obj\\",
+        "outputPath": "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P12_BehaviorSubject\\BatteryMonitor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marta Stankevich\\AppData\\Roaming\\NuGet\\NuGet.Config",

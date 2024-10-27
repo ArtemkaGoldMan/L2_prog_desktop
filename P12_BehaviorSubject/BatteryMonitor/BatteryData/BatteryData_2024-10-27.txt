@@ -1,0 +1,16 @@
+16:27:53 - Poziom baterii: 74%
+16:27:58 - Poziom baterii: 81%
+16:28:03 - Poziom baterii: 31%
+16:28:08 - Poziom baterii: 16%
+16:28:13 - Poziom baterii: 69%
+16:28:18 - Poziom baterii: 44%
+16:28:23 - Poziom baterii: 49%
+16:33:15 - Poziom baterii: 82%
+16:33:20 - Poziom baterii: 5%
+16:33:25 - Poziom baterii: 17%
+16:33:30 - Poziom baterii: 74%
+16:33:35 - Poziom baterii: 12%
+16:33:40 - Poziom baterii: 12%
+16:33:45 - Poziom baterii: 77%
+16:33:50 - Poziom baterii: 58%
+16:33:55 - Poziom baterii: 4%
