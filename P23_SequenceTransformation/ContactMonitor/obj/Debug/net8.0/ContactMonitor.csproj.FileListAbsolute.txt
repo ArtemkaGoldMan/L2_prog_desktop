@@ -1,0 +1,15 @@
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\bin\Debug\net8.0\ContactMonitor.exe
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\bin\Debug\net8.0\ContactMonitor.deps.json
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\bin\Debug\net8.0\ContactMonitor.runtimeconfig.json
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\bin\Debug\net8.0\ContactMonitor.dll
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\bin\Debug\net8.0\ContactMonitor.pdb
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\obj\Debug\net8.0\ContactMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\obj\Debug\net8.0\ContactMonitor.AssemblyInfoInputs.cache
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\obj\Debug\net8.0\ContactMonitor.AssemblyInfo.cs
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\obj\Debug\net8.0\ContactMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\obj\Debug\net8.0\ContactMonitor.sourcelink.json
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\obj\Debug\net8.0\ContactMonitor.dll
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\obj\Debug\net8.0\refint\ContactMonitor.dll
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\obj\Debug\net8.0\ContactMonitor.pdb
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\obj\Debug\net8.0\ContactMonitor.genruntimeconfig.cache
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P23_SequenceTransformation\ContactMonitor\obj\Debug\net8.0\ref\ContactMonitor.dll
