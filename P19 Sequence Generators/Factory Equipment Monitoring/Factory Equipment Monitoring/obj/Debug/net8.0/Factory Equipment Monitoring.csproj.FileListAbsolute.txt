@@ -1,0 +1,18 @@
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\bin\Debug\net8.0\Factory Equipment Monitoring.exe
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\bin\Debug\net8.0\Factory Equipment Monitoring.deps.json
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\bin\Debug\net8.0\Factory Equipment Monitoring.runtimeconfig.json
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\bin\Debug\net8.0\Factory Equipment Monitoring.dll
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\bin\Debug\net8.0\Factory Equipment Monitoring.pdb
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\obj\Debug\net8.0\Factory Equipment Monitoring.csproj.AssemblyReference.cache
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\obj\Debug\net8.0\Factory Equipment Monitoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\obj\Debug\net8.0\Factory Equipment Monitoring.AssemblyInfoInputs.cache
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\obj\Debug\net8.0\Factory Equipment Monitoring.AssemblyInfo.cs
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\obj\Debug\net8.0\Factory Equipment Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\obj\Debug\net8.0\Factory Equipment Monitoring.sourcelink.json
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\obj\Debug\net8.0\Factory .7F0B1185.Up2Date
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\obj\Debug\net8.0\Factory Equipment Monitoring.dll
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\obj\Debug\net8.0\refint\Factory Equipment Monitoring.dll
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\obj\Debug\net8.0\Factory Equipment Monitoring.pdb
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\obj\Debug\net8.0\Factory Equipment Monitoring.genruntimeconfig.cache
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P19 Sequence Generators\Factory Equipment Monitoring\Factory Equipment Monitoring\obj\Debug\net8.0\ref\Factory Equipment Monitoring.dll
