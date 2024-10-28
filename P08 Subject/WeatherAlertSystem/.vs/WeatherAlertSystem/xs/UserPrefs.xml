@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E08C848A-1762-461B-B118-C2E16691B150}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WeatherAlertSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherAlertSystem/Program.cs">
+    <Files>
+      <File FileName="WeatherAlertSystem/Program.cs" Line="14" Column="30" />
+      <File FileName="WeatherAlertSystem/Weather.cs" Line="6" Column="23" />
+      <File FileName="WeatherAlertSystem/WeatherMonitor.cs" Line="52" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherAlertSystem " expanded="True">
+            <Node name="WeatherAlertSystem">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
