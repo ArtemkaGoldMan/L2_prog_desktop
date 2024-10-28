@@ -55,8 +55,7 @@
               "RelativeToolTip": "StockPriceMonitoring\\Observer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T14:53:31.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T14:53:31.181Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "StockPriceMonitoring\\Stock.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T14:53:07.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T14:53:07.955Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "StockPriceMonitoring\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T14:51:41.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T14:51:41.32Z"
             }
           ]
         }

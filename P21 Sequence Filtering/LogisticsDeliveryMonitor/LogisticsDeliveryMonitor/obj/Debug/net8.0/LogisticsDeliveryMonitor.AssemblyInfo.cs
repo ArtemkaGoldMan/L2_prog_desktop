@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogisticsDeliveryMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83841a1fb727f8a5623f558b76c7236c01a442fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69f4a91290f31ef0e59ccacb9ce411553873f6db")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogisticsDeliveryMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogisticsDeliveryMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
