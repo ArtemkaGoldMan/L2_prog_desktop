@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFCO9HJj+cw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P11_ReplaySubject\\ChatReplayApp\\ChatReplayApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marta Stankevich\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
