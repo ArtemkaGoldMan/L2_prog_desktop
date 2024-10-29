@@ -1,0 +1,15 @@
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\bin\Debug\net8.0\NewsletterApp.exe
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\bin\Debug\net8.0\NewsletterApp.deps.json
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\bin\Debug\net8.0\NewsletterApp.runtimeconfig.json
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\bin\Debug\net8.0\NewsletterApp.dll
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\bin\Debug\net8.0\NewsletterApp.pdb
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\obj\Debug\net8.0\NewsletterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\obj\Debug\net8.0\NewsletterApp.AssemblyInfoInputs.cache
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\obj\Debug\net8.0\NewsletterApp.AssemblyInfo.cs
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\obj\Debug\net8.0\NewsletterApp.csproj.CoreCompileInputs.cache
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\obj\Debug\net8.0\NewsletterApp.sourcelink.json
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\obj\Debug\net8.0\NewsletterApp.dll
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\obj\Debug\net8.0\refint\NewsletterApp.dll
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\obj\Debug\net8.0\NewsletterApp.pdb
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\obj\Debug\net8.0\NewsletterApp.genruntimeconfig.cache
+C:\Users\Marta Stankevich\ProgDesktopMob\lab2\L2_prog_desktop\P09_Unsubscribing\NewsletterApp\obj\Debug\net8.0\ref\NewsletterApp.dll

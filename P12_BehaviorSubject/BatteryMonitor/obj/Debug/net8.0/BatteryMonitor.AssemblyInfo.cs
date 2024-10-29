@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BatteryMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3680adee475abee2fbb7830653d838fe110efad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69f4a91290f31ef0e59ccacb9ce411553873f6db")]
 [assembly: System.Reflection.AssemblyProductAttribute("BatteryMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BatteryMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Linq;
 using System.Threading;
-using BatteryMonitoringApp.Models; // Dodaj ten import
+using BatteryMonitoringApp.Models; 
 
 namespace BatteryMonitoringApp.Services
 {
@@ -47,12 +47,12 @@ namespace BatteryMonitoringApp.Services
                 if (parts.Length >= 2)
                 {
                     var timestamp = DateTime.Parse(parts[0].Trim());
-                    // Upewnij się, że wyodrębniasz liczbę bez jednostki '%'
+                    
                     var levelPart = parts[1].Trim();
-                    // Wyciągamy samą liczbę
+                   
                     int batteryLevel;
 
-                    // Jeśli levelPart zawiera tekst 'Poziom baterii: ', usuwamy go
+                   
                     if (levelPart.StartsWith("Poziom baterii: "))
                     {
                         levelPart = levelPart.Replace("Poziom baterii: ", "").Replace("%", "").Trim();

@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P20_Converting_Into_Observables\\LanguageLearningApp\\LanguageLearningApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P20_Converting_Into_Observables\\LanguageLearningApp\\LanguageLearningApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P20_Converting_Into_Observables\\LanguageLearningApp\\LanguageLearningApp.csproj",
+        "projectName": "LanguageLearningApp",
+        "projectPath": "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P20_Converting_Into_Observables\\LanguageLearningApp\\LanguageLearningApp.csproj",
+        "packagesPath": "C:\\Users\\Marta Stankevich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marta Stankevich\\ProgDesktopMob\\lab2\\L2_prog_desktop\\P20_Converting_Into_Observables\\LanguageLearningApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marta Stankevich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

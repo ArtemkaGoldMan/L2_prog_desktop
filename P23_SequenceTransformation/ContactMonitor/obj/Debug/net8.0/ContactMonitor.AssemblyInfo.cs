@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContactMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8829f5dab78884e6c72e55f13dc27af15066a15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69f4a91290f31ef0e59ccacb9ce411553873f6db")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContactMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContactMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
