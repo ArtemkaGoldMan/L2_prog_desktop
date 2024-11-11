@@ -1,0 +1,4 @@
+00:21:30 - Poziom baterii: 29%
+00:21:35 - Poziom baterii: 2%
+00:21:40 - Poziom baterii: 37%
+00:21:45 - Poziom baterii: 91%

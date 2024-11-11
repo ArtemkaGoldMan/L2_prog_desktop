@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChatReplayApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a3bf3b29bf0499d7638cec56ca6ce0ca417bb7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69f4a91290f31ef0e59ccacb9ce411553873f6db")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChatReplayApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChatReplayApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
