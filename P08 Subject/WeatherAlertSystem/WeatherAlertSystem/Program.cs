@@ -1,36 +1,39 @@
 ﻿using System;
 using WeatherAlertSystem;
 
-class Program
+namespace WeatherAlertSystem
 {
-    static void Main(string[] args)
+    class Program
     {
-        var weatherMonitor = new WeatherMonitor();
-        bool exit = false;
-
-        while (!exit)
+        static void Main(string[] args)
         {
-            Console.WriteLine("1. Add City to Monitor\n2. View Monitored Cities\n3. Remove City from Monitoring\n4. Exit");
-            Console.Write("\nSelect an option: ");
-            switch (Console.ReadLine())
+            var weatherMonitor = new WeatherMonitor();
+            bool exit = false;
+
+            while (!exit)
             {
-                case "1":
-                    Console.Write("\nEnter city name: ");
-                    weatherMonitor.AddCity(Console.ReadLine()!);
-                    break;
-                case "2":
-                    weatherMonitor.ShowMonitoredCities();
-                    break;
-                case "3":
-                    Console.Write("\nEnter city name to remove: ");
-                    weatherMonitor.RemoveCity(Console.ReadLine()!);
-                    break;
-                case "4":
-                    exit = true;
-                    break;
-                default:
-                    Console.WriteLine("\nInvalid option, try again.");
-                    break;
+                Console.WriteLine("1. Add City to Monitor\n2. View Monitored Cities\n3. Remove City from Monitoring\n4. Exit");
+                Console.Write("\nSelect an option: ");
+                switch (Console.ReadLine())
+                {
+                    case "1":
+                        Console.Write("\nEnter city name: ");
+                        weatherMonitor.AddCity(Console.ReadLine()!);
+                        break;
+                    case "2":
+                        weatherMonitor.ShowMonitoredCities();
+                        break;
+                    case "3":
+                        Console.Write("\nEnter city name to remove: ");
+                        weatherMonitor.RemoveCity(Console.ReadLine()!);
+                        break;
+                    case "4":
+                        exit = true;
+                        break;
+                    default:
+                        Console.WriteLine("\nInvalid option, try again.");
+                        break;
+                }
             }
         }
     }

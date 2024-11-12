@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wPOLcZLV8P8=",
+  "dgSpecHash": "SpB9QQNMKP0=",
   "success": true,
   "projectFilePath": "C:\\Users\\artem\\University\\Proj_Desktop_Les\\Lab_2\\L2_prog_desktop\\P17 Simple Factory Methods\\NotificationSystem\\NotificationSystem\\NotificationSystem.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

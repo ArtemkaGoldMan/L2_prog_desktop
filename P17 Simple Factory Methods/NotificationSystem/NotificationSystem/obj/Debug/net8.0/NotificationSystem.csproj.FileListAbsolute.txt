@@ -13,3 +13,6 @@ C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P17 Simple Fact
 C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P17 Simple Factory Methods\NotificationSystem\NotificationSystem\obj\Debug\net8.0\NotificationSystem.pdb
 C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P17 Simple Factory Methods\NotificationSystem\NotificationSystem\obj\Debug\net8.0\NotificationSystem.genruntimeconfig.cache
 C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P17 Simple Factory Methods\NotificationSystem\NotificationSystem\obj\Debug\net8.0\ref\NotificationSystem.dll
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P17 Simple Factory Methods\NotificationSystem\NotificationSystem\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P17 Simple Factory Methods\NotificationSystem\NotificationSystem\obj\Debug\net8.0\NotificationSystem.csproj.AssemblyReference.cache
+C:\Users\artem\University\Proj_Desktop_Les\Lab_2\L2_prog_desktop\P17 Simple Factory Methods\NotificationSystem\NotificationSystem\obj\Debug\net8.0\Notifica.85592073.Up2Date

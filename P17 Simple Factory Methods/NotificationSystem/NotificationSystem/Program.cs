@@ -1,41 +1,53 @@
-﻿using NotificationSystem.Notification;
-
-class Program
+﻿using System;
+using System.Reactive.Linq;
+using System.Threading.Tasks;
+using NotificationSystem.Notification;
+namespace NotificationSystem
 {
-    static async Task Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Welcome to the Notification System!");
-
-        while (true)
+        static async Task Main(string[] args)
         {
-            Console.WriteLine(" ");
-            Console.WriteLine("Choose notification type (email, sms, push) or type 'exit' to quit:");
-            string type = Console.ReadLine()!;
+            Console.WriteLine("Welcome to the Reactive Notification System!");
 
-            if (type.Equals("exit", StringComparison.OrdinalIgnoreCase))
+            while (true)
             {
-                Console.WriteLine("Exiting the Notification System...");
-                break;
-            }
+                Console.WriteLine("\nChoose notification type (email, sms, push) or type 'exit' to quit:");
+                string type = Console.ReadLine()!;
 
-            try
-            {
-                INotification notification = NotificationFactory.CreateNotification(type);
+                if (type.Equals("exit", StringComparison.OrdinalIgnoreCase))
+                {
+                    Console.WriteLine("Exiting the Notification System...");
+                    break;
+                }
 
                 Console.WriteLine("Enter the message to send:");
                 string message = Console.ReadLine()!;
 
-                Console.WriteLine(" ");
+                try
+                {
+                    var notification = NotificationFactory.CreateNotification(type);
+                    var observableNotification = Observable.Return(notification);
 
-                // Asynchronously send notification
-                await notification.SendAsync(message);
+                    // Subskrybowanie do obserwowalnego powiadomienia
+                    observableNotification.Subscribe(
+                        async n => await n.SendAsync(message),
+                        ex => Console.WriteLine($"Error: {ex.Message}"),
+                        () => Console.WriteLine("Notification process completed.")
+                    );
+                }
+                catch (NotSupportedException ex)
+                {
+                    // Obsługa nieobsługiwanego typu powiadomienia jako obserwowalny błąd
+                    Observable.Throw<INotification>(ex).Subscribe(
+                        _ => { }, // pusta operacja, ponieważ to przypadek błędu
+                        err => Console.WriteLine($"Error: {err.Message}")
+                    );
+                }
             }
-            catch (NotSupportedException ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
+
+            Console.WriteLine("Goodbye!");
         }
-
-        Console.WriteLine("Goodbye!");
     }
 }
+
